@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.businessCard
+Exec=/usr/bin/ru.auroraos.businessCard
+Name=businessCard
+Name[ru]=Генерация визитки
+
+[X-Application]
+Permissions=UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=businessCard
+ExecDBus=/usr/bin/ru.auroraos.businessCard
